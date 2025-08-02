@@ -35,3 +35,4 @@ Python script performing all EDA operations
 train.csv	Sample dataset (replace with your own if needed)
 README.md	Documentation of EDA tasks performed
 
+author ---. Eshaan Michael
